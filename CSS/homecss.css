@@ -1,0 +1,30 @@
+h1, p {
+	color:darkblue;
+}
+h2:hover{
+	background-color:#00BFFF;
+	border-radius:25px
+}
+h1,h2,p{
+	text-align:center;
+	font-family:Verdana, Helvetica, sans-serif;
+}
+body{
+	background-color: #87CEFA;
+}
+.navigation {
+	background-color:blue;
+	width: 100%;
+	display:table;
+	border-radius:25px
+}
+.navigation h2 {
+	display: table-cell;
+	text-align:center;
+	vertical-align:middle;
+	width: 25%;
+}
+.navigation a {
+	color:#ffffff;
+	text-decoration:none;
+}
